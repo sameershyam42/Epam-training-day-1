@@ -1,0 +1,20 @@
+git config  --global user.name ' sameershyam42'
+
+git config  --global user.email ' sameershyam42@gmail.com'
+
+git clone https://github.com/sameershyam42/Epam-training-day-1.git
+
+cd  Epam-training-day-1
+     #to create txt files
+nano Epam-training-day-1.txt
+     #
+git status    #to get status 
+
+git add .
+
+git status
+
+
+git commit -m  "example1 created "
+
+git push
