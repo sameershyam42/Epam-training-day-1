@@ -21,3 +21,35 @@ git push
 
 git log
 
+###day 2
+
+cd  Epam-training-day-1
+
+git init
+
+ touch test.txt
+
+git branch feature-new
+
+git commit -m "First commit"git branch
+
+git branch
+
+
+git branch feature-1
+
+git checkout feature-1
+
+nano ex3.txt
+
+git add .
+
+git commit -m "ex3.txt"
+
+git checkout  main
+
+git merge feature-1
+
+
+git push
+
